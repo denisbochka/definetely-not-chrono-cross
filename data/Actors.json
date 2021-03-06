@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Серж","characterIndex":6,"characterName":"Арни","classId":1,"equips":[1,1,0,3,0],"faceIndex":6,"faceName":"Арни","traits":[],"initialLevel":1,"maxLevel":99,"name":"Серж","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Ацуши","characterIndex":2,"characterName":"Арни","classId":5,"equips":[3,0,0,3,0],"faceIndex":2,"faceName":"Арни","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ацуши","nickname":"","note":"","profile":"Раньше был собакой"},
+{"id":3,"battlerName":"Кид","characterIndex":5,"characterName":"Арни","classId":6,"equips":[2,0,1,3,0],"faceIndex":5,"faceName":"Арни","traits":[],"initialLevel":6,"maxLevel":99,"name":"Кид","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Пьер","characterIndex":0,"characterName":"Термина","classId":2,"equips":[1,0,1,3,8],"faceIndex":0,"faceName":"Термина","traits":[{"code":53,"dataId":5,"value":1}],"initialLevel":11,"maxLevel":99,"name":"Пьер","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"микки","characterIndex":3,"characterName":"Термина","classId":7,"equips":[7,0,1,3,4],"faceIndex":3,"faceName":"Термина","traits":[],"initialLevel":11,"maxLevel":99,"name":"Микки","nickname":"","note":"","profile":""}
+]
